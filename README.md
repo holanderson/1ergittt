@@ -1,2 +1,2 @@
-# 1ergittt
-mi primer git
+# sistema inventario
+se desarrollo con el framework yii2 
